@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/opengl_ch5_ex1.dir/src/main.cpp.o -o opengl_ch5_ex1  /usr/local/lib/libglfw3.a libglad.a -ldl /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl 
