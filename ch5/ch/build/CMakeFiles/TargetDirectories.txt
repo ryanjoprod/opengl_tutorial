@@ -1,4 +1,0 @@
-/home/ryan/Documents/learning/opengl/ch5/ch/build/CMakeFiles/glad.dir
-/home/ryan/Documents/learning/opengl/ch5/ch/build/CMakeFiles/opengl_ch5.dir
-/home/ryan/Documents/learning/opengl/ch5/ch/build/CMakeFiles/edit_cache.dir
-/home/ryan/Documents/learning/opengl/ch5/ch/build/CMakeFiles/rebuild_cache.dir
