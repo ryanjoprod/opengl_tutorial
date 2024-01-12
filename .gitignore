@@ -1,4 +1,4 @@
 *.zip
 
-*build/
-/learnopengl/
+build/
+learnopengl/
