@@ -20,4 +20,4 @@ target_compile_options(compiler_flags INTERFACE
 
 add_executable(${CMAKE_PROJECT_NAME} src/main.cpp)
 
-target_link_libraries(${CMAKE_PROJECT_NAME} PUBLIC compiler_flags glfw OpenGL::GL)
+target_link_libraries(${CMAKE_PROJECT_NAME} PUBLIC compiler_flags glfw OpenGL::GL )
